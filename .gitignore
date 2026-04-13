@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# C++
+*.o
+*.exe
+*.out
+*.gch
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
